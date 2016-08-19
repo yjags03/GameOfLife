@@ -1,0 +1,24 @@
+{
+  "name": "gameoflife",
+  "version": "1.0.0",
+  "description": "Game of Life for FreeCodeCamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yjags03/GameOfLife.git"
+  },
+  "keywords": [
+    "FreeCodeCamp",
+    "GameOfLife",
+    "React"
+  ],
+  "author": "Jagadeeswara R Yaramala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yjags03/GameOfLife/issues"
+  },
+  "homepage": "https://github.com/yjags03/GameOfLife#readme"
+}
